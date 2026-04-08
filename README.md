@@ -68,7 +68,7 @@
 
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=girlpaws&color=5D3E25&style=flat&abbreviated=true&label=walkers)
+![](https://komarev.com/ghpvc/?username=girlpaws&color=807F6D&style=flat&abbreviated=true&label=walkers)
 
 </div>
 ‎ 
