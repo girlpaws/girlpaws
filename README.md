@@ -27,7 +27,7 @@
 
 <div align="center">
 
- <img src="https://files.catbox.moe/3rtp2z.png" width="400">
+ <img src="https://files.catbox.moe/199nxe.png" width="400">
 
 
 </div>
