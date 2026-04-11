@@ -27,7 +27,6 @@
 
 <div align="center">
 
- <img src="https://files.catbox.moe/199nxe.png" width="300">
 
 
 </div>
@@ -68,7 +67,6 @@
 
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=girlpaws&color=807F6D&style=flat&abbreviated=true&label=walkers)
 
 </div>
 ‎ 
