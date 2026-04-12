@@ -69,12 +69,6 @@
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3136jsqyxmeaeemduqr435mmswym&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
-
 </div>
 
 </div>
