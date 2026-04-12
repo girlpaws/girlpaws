@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=girlpaws&color=red&style=flat-square&label=prayers&base=824&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=girlpaws&color=red&style=flat-square&label=prayers&abbreviated=true)
  
 </div>
 
