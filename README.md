@@ -43,7 +43,7 @@
 </div>
 ‎ 
 ‎ <div align="center">
-<img src = "https://64.media.tumblr.com/1b29159af04fa74a0d3fc4de46b807dc/6654e8dd840f4026-f1/s2048x3072/7e853a0eb3929884ad5c568006c73afa08309bff.pnj" width = "400">
+<img src = "https://i.ibb.co/Qjp0rXqr/twitter-gif-2040252965555195911-69db73698961c.gif" width = "400">
 
 [match ata](https://tomarry.atabook.org/)⠀⠀[main ata](https://cherub.atabook.org)⠀⠀[rentry](https://rentry.co/hypomanic)⠀⠀[pronouns](https://pronouns.cc/@zombify)
 
